@@ -1,7 +1,7 @@
-## 🖐Oii, eu sou o Marcos Schlick 
+## Hi, i am Marcos Schlick 👋
 
-- 🧝‍♂️ Sou aluno de Análise e Desenvolvimento de Sistemas do IFSUL
-- 💾 Atualmente estou estudando JAVA (primeira tecnologia)
+- 🧝‍♂️ studying ADS at IFSUL
+- 💾 learning Spring Boot | MongoDB | Markdown | HTML | CSS
  
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosschlick&show_icons=true&theme=github_dark)](https://github.com/marcosschlick/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosschlick&layout=compact&theme=github_dark)
@@ -9,7 +9,10 @@
 
 
 <div>
-  <img align="center" alt="Marcos java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"">
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"">
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"">
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"">
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"">
   
 </div>
 

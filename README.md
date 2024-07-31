@@ -1,7 +1,7 @@
 ## Hi, i am Marcos Schlick 👋
 
 - 🧝‍♂️ studying ADS at IFSUL
-- 💾 learning Spring Boot | MongoDB | Markdown | HTML | CSS
+- 💾 learning Spring Boot | MongoDB | HTML | CSS
  
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosschlick&show_icons=true&theme=github_dark)](https://github.com/marcosschlick/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosschlick&layout=compact&theme=github_dark)
@@ -13,6 +13,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"">
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"">
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"">
+  <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown"">
   
 </div>
 

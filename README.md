@@ -1,4 +1,4 @@
-## Hi, i am Marcos Schlick 👋
+## Hi, I am Marcos Schlick 👋
 
  
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosschlick&show_icons=true&theme=github_dark)](https://github.com/marcosschlick/github-readme-stats)

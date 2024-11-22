@@ -8,7 +8,7 @@
 
 <div>
    <h3>Technologies I use:</h3>
-  <img align="center" alt="technologies" src="https://skillicons.dev/icons?i=linux,arch,git,github,java,spring,mysql,eclipse,vim">
+  <img align="center" alt="technologies" src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,eclipse,java,spring,python,cpp,js,nodejs,html,css">
 </div>
 
 <div> 

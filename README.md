@@ -1,18 +1,5 @@
-## Hi, I am Marcos Schlick 👋
+## Hi, I am Marcos Schlick 👋  
 
- 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosschlick&show_icons=true&theme=github_dark)](https://github.com/marcosschlick/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosschlick&layout=compact&theme=github_dark)
+I'm a student of **Analysis and Systems Development** in a dual degree program between **IFSul 🇧🇷** and **UTEC 🇺🇾**. Currently, I work as an **IT Support Intern** at IFSul and as a **Development Scholar** at **Compass UOL**, focusing on **Open Finance** projects. My expertise includes **back-end development** with **Java**, **Spring Boot**, **PostgreSQL**, and **MySQL**, along with experience in **data monitoring** and **technical support**.  
 
-
-
-<div>
-   <h3>Technologies I use:</h3>
-  <img align="center" alt="technologies" src="https://skillicons.dev/icons?i=linux,git,github,java,spring,python,cpp,js,nodejs,html,css">
-</div>
-
-<div> 
-  <h3>Contact with me!</h3>
-  <a href="mailto:marcosschlick@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="https://www.linkedin.com/in/marcosschlick" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
-</div>
+I use **Manjaro Linux** as my primary OS and work with technologies like **Python**, **JavaScript**, **Node.js**, **C++**, **HTML**, **CSS**, **Git**, and **GitHub**. Proficient in English, I enjoy collaborating in global teams to solve challenges and innovate in tech! 💻🌍🚀

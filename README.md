@@ -1,4 +1,4 @@
-👋 Hi, I'm **Marcos Schlick**!  
+# 👋 Hi, I'm **Marcos Schlick**!  
 
 🎓 Pursuing a dual degree in **Analysis and Systems Development** at **IFSul** 🇧🇷 and **UTEC** 🇺🇾.  
 💼 **IT Support Intern** @IFSul | **Development Scholar** @Compass UOL (focusing on **Open Finance**).  

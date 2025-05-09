@@ -1,5 +1,18 @@
-## Hi, I am Marcos Schlick 👋  
+👋 Hi, I'm **Marcos Schlick**!  
 
-I'm a student of **Analysis and Systems Development** in a dual degree program between **IFSul 🇧🇷** and **UTEC 🇺🇾**. Currently, I work as an **IT Support Intern** at IFSul and as a **Development Scholar** at **Compass UOL**, focusing on **Open Finance** projects. My expertise includes **back-end development** with **Java**, **Spring Boot**, **Node.js**, **PostgreSQL**, and **MySQL**, along with experience in **data monitoring** and **technical support**.  
+🎓 Pursuing a dual degree in **Analysis and Systems Development** at **IFSul** 🇧🇷 and **UTEC** 🇺🇾.  
+💼 **IT Support Intern** @IFSul | **Development Scholar** @Compass UOL (focusing on **Open Finance**).  
 
-I use **Manjaro Linux** as my primary OS and work with technologies like **Python**, **JavaScript**, **C++**, **HTML**, **CSS**, **Git**, and **GitHub**. Proficient in English and Spanish, I enjoy collaborating in global teams to solve challenges and innovate in tech! 💻🌍🚀
+🛠️ **Core Stack**  
+🐧 **Linux** (Manjaro daily driver) | ⚙️ **Back-end**: Node.js, Spring Boot  
+🗃️ **Databases**: PostgreSQL, MariaDB | 🔄 **Version Control**: Git, GitHub  
+
+**📚 Secondary Skills**  
+🖥️ Front-end basics (HTML, CSS, JS) | 🛠️ **Tools & Languages**: C++, Python  
+
+🌍 Fluent in **English** & **Spanish** | Passionate about solving challenges through **global tech collaboration**!  
+
+Let’s innovate and build the future together! 🤝✨  
+
+---  
+*(Open to projects, hackathons, and tech discussions!)*

@@ -10,9 +10,4 @@
 **📚 Secondary Skills**  
 🖥️ Front-end basics (HTML, CSS, JS) | 🛠️ **Tools & Languages**: C++, Python  
 
-🌍 Fluent in **English** & **Spanish** | Passionate about solving challenges through **global tech collaboration**!  
-
-Let’s innovate and build the future together! 🤝✨  
-
----  
-*(Open to projects, hackathons, and tech discussions!)*
+🌍 Fluent in **English** & **Spanish** | Passionate about solving challenges through **global tech collaboration**!

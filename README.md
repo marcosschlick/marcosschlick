@@ -1,13 +1,32 @@
-# 👋 Hi, I'm **Marcos Schlick**!  
+# 👋 Hi, I'm **Marcos Schlick**!
 
-🎓 Pursuing a dual degree in **Analysis and Systems Development** at **IFSul** 🇧🇷 and **UTEC** 🇺🇾.  
-💼 **IT Support Intern** @IFSul 
+🎓 Binational dual degree in **Systems Analysis & Development** at **IFSul** (Brazil) & **UTEC** (Uruguay)  
 
-🛠️ **Core Stack**  
-🐧 **Linux** (Manjaro daily driver) | ⚙️ **Back-end**: Node.js, Spring Boot  
-🗃️ **Databases**: PostgreSQL, MariaDB, MySQL | 🔄 **Version Control**: Git, GitHub  
+🔬 Directed towards **Machine Learning & AI Research**
 
-**📚 Secondary Skills**  
-🖥️ Front-end basics (HTML, CSS, React) | 🛠️ **Tools & Languages**: C, Python  
+💼 IT Support Intern @ IFSul 
 
-🌍 Fluent in **English** & **Spanish** | Passionate about solving challenges through **global tech collaboration**!
+---
+
+### 🛠️ Tech Stack
+**ML/AI & Data Science**  
+`Python` `TensorFlow` `YOLO` `Scikit-learn` `Jupyter`
+
+**Back-end & Databases**  
+`Node.js` `Spring Boot` `PostgreSQL` `MySQL` `MariaDB`
+
+**Tools & Development**  
+`Docker` `Git` `GitHub` `C` `Linux` (Manjaro daily driver)
+
+**Web**  
+`HTML` `CSS` `React`
+
+---
+
+### 🌍 Languages
+**Native:** Portuguese (Brazil)  
+**Proficient:** English & Spanish  
+
+---
+
+> 💡 Focused on building intelligent solutions through ML/AI and robust back-end systems.

@@ -1,32 +1,7 @@
-# 👋 Hi, I'm **Marcos Schlick**!
+# Hello, World! I'm Marcos Schlick
 
-🎓 Binational dual degree in **Systems Analysis & Development** at **IFSul** (Brazil) & **UTEC** (Uruguay)  
+I'm a Systems Analysis and Development student in a binational degree program at IFSul (Brazil) and UTEC (Uruguay), and an IT Support Intern at IFSul.
 
-🔬 Directed towards **Machine Learning & AI Research**
+Through the Compass UOL Scholarship Program, I gained practical back-end development experience with Node.js, AWS, Docker, and SQL databases.
 
-💼 IT Support Intern @ IFSul 
-
----
-
-### 🛠️ Tech Stack
-**ML/AI & Data Science**  
-`Python` `TensorFlow` `YOLO` `Scikit-learn` `Jupyter`
-
-**Back-end & Databases**  
-`Node.js` `Spring Boot` `PostgreSQL` `MySQL` `MariaDB`
-
-**Tools & Development**  
-`Docker` `Git` `GitHub` `C` `Linux` (Manjaro daily driver)
-
-**Web**  
-`HTML` `CSS` `React`
-
----
-
-### 🌍 Languages
-**Native:** Portuguese (Brazil)  
-**Proficient:** English & Spanish  
-
----
-
-> 💡 Focused on building intelligent solutions through ML/AI and robust back-end systems.
+I focus on machine learning, explainable AI, computer vision, and back-end development. My current research explores explainable navigation for autonomous robots.
